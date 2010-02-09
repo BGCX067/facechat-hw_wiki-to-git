@@ -1,0 +1,9 @@
+#labels Featured,Phase-Design
+=Introducing Facehcat for iPhone and iPod Touch!=
+
+Access Facebook chat anywhere on your mobile phone with facechat.  Features better performance than Facebook's iPhone and iPod App and is easy to use and doest take up ANY space!  thats right NO space required!
+
+=Installing=
+# Simply navigate to http://www.ifxsound.net/Facechat/index.html
+# Press the "=+=" button and "Add To Homescreen"
+# Login, Press Return to Facebook Chat and your ready to go!
